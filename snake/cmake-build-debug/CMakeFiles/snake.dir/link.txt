@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/snake.dir/main.cpp.o CMakeFiles/snake.dir/eat.cpp.o CMakeFiles/snake.dir/game.cpp.o CMakeFiles/snake.dir/snake.cpp.o CMakeFiles/snake.dir/wall.cpp.o -o snake  /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libglut.so /usr/lib/x86_64-linux-gnu/libGL.so 
