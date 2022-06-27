@@ -1,0 +1,6 @@
+/snap/clion/198/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" -S /home/lyov/eshutyun/snake -B /home/lyov/eshutyun/snake/cmake-build-debug
+-- Checking for module 'glut'
+--   No package 'glut' found
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lyov/eshutyun/snake/cmake-build-debug
